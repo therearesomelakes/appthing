@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/therearesomelakes.github.io/appthing/static/css/main.073c9b0a.css",
+    "main.js": "/therearesomelakes.github.io/appthing/static/js/main.c64ee083.js",
+    "static/js/787.1f611abf.chunk.js": "/therearesomelakes.github.io/appthing/static/js/787.1f611abf.chunk.js",
+    "static/media/logo.svg": "/therearesomelakes.github.io/appthing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/therearesomelakes.github.io/appthing/index.html",
+    "main.073c9b0a.css.map": "/therearesomelakes.github.io/appthing/static/css/main.073c9b0a.css.map",
+    "main.c64ee083.js.map": "/therearesomelakes.github.io/appthing/static/js/main.c64ee083.js.map",
+    "787.1f611abf.chunk.js.map": "/therearesomelakes.github.io/appthing/static/js/787.1f611abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c64ee083.js"
+  ]
+}
